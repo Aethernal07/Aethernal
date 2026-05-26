@@ -3,7 +3,7 @@
 </p>
 #Salam Kenal, Gw [Urvillain] 🙌
 
-**Belajar coding sampe bisa bawa dia balik**
+**Belajar**
 
 Gw cuman iseng aja bikin akun github sekalian belajar hehe..... gw suka ngotak ngatik software sama banyak penasaran codingan hari hari gw cuman diisi latihan codingan dan gw juga lagi membangun proyek sampingan yang selesai selesai 
 Proyek yang mungkin gw kerjain : 
