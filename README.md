@@ -28,19 +28,13 @@
       💻 Ricing CachyOS & Arch Linux in my free time<br>
       🛡️ Bug Bounty Hunter on HackerOne<br>
       ♟️ Chess Player
-    </td>
-
-    <!-- Kamar Kanan: Tahta untuk Gambarmu -->
+  </td> <!-- Kamar Kanan: Tahta untuk Gambarmu -->
     <td width="40%" align="center" style="border: none;">
-      <!-- Masukkan nama fail gambar atau tautan gambarmu ke dalam atribut src="" di bawah ini -->
-      <img src="MASUKKAN_NAMA_GAMBAR_DI_SINI.jpg" width="80%" alt="Visual Urvillain" style="border-radius: 10px;" />
+      <!-- Nasab gambar sudah disesuaikan dengan reponya -->
+      <img src="https://raw.githubusercontent.com/Aethernal07/Banner-/main/24d00cc561004ab980a7285d3f205d03.jpg" width="80%" alt="Visual Urvillain" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
-<div align="center">
-  <h3> ⚙️ Technologies </h3>
-</div>
-
 <div align="center">
   <!-- Tech Stack Badges -->
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
