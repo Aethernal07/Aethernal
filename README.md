@@ -31,7 +31,7 @@
   </td> <!-- Kamar Kanan: Tahta untuk Gambarmu -->
     <td width="40%" align="center" style="border: none;">
       <!-- Nasab gambar sudah disesuaikan dengan reponya -->
-      <img src="https://raw.githubusercontent.com/Aethernal07/Banner-/main/24d00cc561004ab980a7285d3f205d03.jpg" width="80%" alt="Visual Urvillain" style="border-radius: 10px;" />
+      <img src="https://raw.githubusercontent.com/Aethernal07/Banner-/main/7a4aeb89bce2a8a0d296b7108c1c1173.jpg" width="80%" alt="Visual Urvillain" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
