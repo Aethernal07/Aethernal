@@ -60,15 +60,23 @@
   <h3> 📈 Statistics </h3>
 </div>
 
-<div align="center">
-  <!-- GitHub Stats & Streak Cards Baru -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aethernal07&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&v=666" alt="Aethernal07's Stats" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aethernal07&theme=radical&hide_border=true&v=666" alt="GitHub Streak" height="195"/>
-</div>
+<!-- Mengurung kedua grafik di dalam tabel agar posisinya sejajar dan tidak berantakan -->
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td align="center" style="border: none;">
+      <!-- Stats Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Aethernal07&show_icons=true&theme=radical&hide_border=true&v=777" alt="Aethernal07's Stats" height="195"/>
+    </td>
+    <td align="center" style="border: none;">
+      <!-- Streak Card -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aethernal07&theme=radical&hide_border=true&v=777" alt="GitHub Streak" height="195"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <div align="center">
-  <!-- Activity Graph Baru -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aethernal07&theme=radical&hide_border=true&v=666" alt="Activity Graph" width="100%"/>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aethernal07&theme=radical&hide_border=true&v=777" alt="Activity Graph" width="100%"/>
 </div>
