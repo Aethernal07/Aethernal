@@ -20,6 +20,7 @@
 
 <table align="center" style="background-color: #0D1117; border: none;">
   <tr>
+    <!-- Kamar Kiri: Tempat Teks Bersemayam -->
     <td width="60%" style="border: none;">
       Hello There! I'm <b>Urvillain</b>, a tech enthusiast and vulnerability researcher. I enjoy learning new technologies and problem solving. Now I'm working on various fun projects to put in practice my knowledge about Python, Artificial Intelligence, and perfecting my Linux ricing setup.
       <br><br>
@@ -28,15 +29,14 @@
       🛡️ Bug Bounty Hunter on HackerOne<br>
       ♟️ Chess Player
     </td>
+
+    <!-- Kamar Kanan: Tahta untuk Gambarmu -->
     <td width="40%" align="center" style="border: none;">
-      <!-- Floating Astronaut GIF -->
-      <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Astronaut.gif" width="150" alt="Astronaut GIF"/>
+      <!-- Masukkan nama fail gambar atau tautan gambarmu ke dalam atribut src="" di bawah ini -->
+      <img src="MASUKKAN_NAMA_GAMBAR_DI_SINI.jpg" width="80%" alt="Visual Urvillain" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
-
-<br>
-
 <div align="center">
   <h3> ⚙️ Technologies </h3>
 </div>
