@@ -74,5 +74,5 @@
 
 <div align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urvillain&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Urvillain's Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aethernal07&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Urvillain's Activity Graph" width="100%"/>
 </div>
