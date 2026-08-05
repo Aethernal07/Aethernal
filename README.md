@@ -1,8 +1,8 @@
+<!-- 🏴‍☠️ BANNER CUSTOM DARI REPO 🏴‍☠️ -->
 <div align="center">
-  <!-- Banner Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20Urvillain's%20Github&fontSize=50&fontAlignY=35&desc=%3C/%3E&descAlignY=55&descAlign=50" alt="Banner" />
+  <!-- Ganti 'banner-keren-gw.png' dengan nama fail gambar yang kamu upload tadi -->
+  <img src="24d00cc561004ab980a7285d3f205d03.jpg" alt="Banner Custom Urvillain" width="100%" />
 </div>
-
 <div align="center">
   <!-- Social Badges -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
