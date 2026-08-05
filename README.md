@@ -65,14 +65,14 @@
 </div>
 
 <div align="center">
-  <!-- GitHub Stats & Streak Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aethernal07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Aethernal07's GitHub stats" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aethernal07&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" height="195"/>
+  <!-- GitHub Stats & Streak Cards Baru -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Aethernal07&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&v=666" alt="Aethernal07's Stats" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aethernal07&theme=radical&hide_border=true&v=666" alt="GitHub Streak" height="195"/>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aethernal07&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Aethernal07's Activity Graph" width="100%"/>
+  <!-- Activity Graph Baru -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aethernal07&theme=radical&hide_border=true&v=666" alt="Activity Graph" width="100%"/>
 </div>
