@@ -1,7 +1,7 @@
 <!-- 🏴‍☠️ BANNER CUSTOM DARI REPO 🏴‍☠️ -->
 <div align="center">
   <!-- Ganti 'banner-keren-gw.png' dengan nama fail gambar yang kamu upload tadi -->
-  <img src="24d00cc561004ab980a7285d3f205d03.jpg" alt="Banner Custom Urvillain" width="100%" />
+  <img src="24d00cc561004ab980a7285d3f205d03.jpg" alt="Banner" width="100%" />
 </div>
 <div align="center">
   <!-- Social Badges -->
